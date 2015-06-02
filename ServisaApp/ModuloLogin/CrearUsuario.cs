@@ -20,6 +20,7 @@ namespace ServisaApp
 
         private void button2_Click(object sender, EventArgs e)
         {
+            /* cierra ventana al presionar "Cancelar" */
             this.Dispose();
         }
 
